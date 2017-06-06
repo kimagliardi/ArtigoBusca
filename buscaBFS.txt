@@ -1,0 +1,48 @@
+[Estado Inicial: [(0, 0)]]
+[Estado Final: [(4, 4)]]
+[Algoritmo: Busca em Largura]
+
+Estados que devem ser analisados
+[(0, 0)]
+Estados que devem ser analisados
+[(1, 0), (0, 1)]
+Estados que devem ser analisados
+[(0, 1), (2, 0), (2, 1)]
+Estados que devem ser analisados
+[(2, 0), (2, 1), (0, 2), (1, 2)]
+Estados que devem ser analisados
+[(2, 1), (0, 2), (1, 2), (3, 0), (3, 1)]
+Estados que devem ser analisados
+[(0, 2), (1, 2), (3, 0), (3, 1), (3, 2)]
+Estados que devem ser analisados
+[(1, 2), (3, 0), (3, 1), (3, 2), (0, 3), (1, 3)]
+Estados que devem ser analisados
+[(3, 0), (3, 1), (3, 2), (0, 3), (1, 3)]
+Estados que devem ser analisados
+[(3, 1), (3, 2), (0, 3), (1, 3), (4, 0)]
+Estados que devem ser analisados
+[(3, 2), (0, 3), (1, 3), (4, 0), (4, 2)]
+Estados que devem ser analisados
+[(0, 3), (1, 3), (4, 0), (4, 2), (3, 3), (4, 3)]
+Estados que devem ser analisados
+[(1, 3), (4, 0), (4, 2), (3, 3), (4, 3), (0, 4), (1, 4)]
+Estados que devem ser analisados
+[(4, 0), (4, 2), (3, 3), (4, 3), (0, 4), (1, 4), (2, 4)]
+Estados que devem ser analisados
+[(4, 2), (3, 3), (4, 3), (0, 4), (1, 4), (2, 4)]
+Estados que devem ser analisados
+[(3, 3), (4, 3), (0, 4), (1, 4), (2, 4)]
+Estados que devem ser analisados
+[(4, 3), (0, 4), (1, 4), (2, 4), (3, 4), (4, 4)]
+Estados que devem ser analisados
+[(0, 4), (1, 4), (2, 4), (3, 4), (4, 4)]
+Estados que devem ser analisados
+[(1, 4), (2, 4), (3, 4), (4, 4)]
+Estados que devem ser analisados
+[(2, 4), (3, 4), (4, 4)]
+Estados que devem ser analisados
+[(3, 4), (4, 4)]
+Estados que devem ser analisados
+[(4, 4)]
+Solucao encontrada na iteracao 21:
+[(0, 0), (1, 0), (2, 1), (3, 2), (3, 3), (4, 4)]
